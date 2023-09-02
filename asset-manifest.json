@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EcommerCeReactJs/static/css/main.3339ba0e.css",
+    "main.js": "/EcommerCeReactJs/static/js/main.53b56c7f.js",
+    "index.html": "/EcommerCeReactJs/index.html",
+    "main.3339ba0e.css.map": "/EcommerCeReactJs/static/css/main.3339ba0e.css.map",
+    "main.53b56c7f.js.map": "/EcommerCeReactJs/static/js/main.53b56c7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3339ba0e.css",
+    "static/js/main.53b56c7f.js"
+  ]
+}
